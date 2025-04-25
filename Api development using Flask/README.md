@@ -87,7 +87,8 @@ pip install flask pandas numpy
 python app.py
 ```
 
-The API will be available at `http://localhost:5000`
+The API will be available at `http://localhost:5000` 
+This will only runs in your Local System
 
 ## Error Handling
 - Invalid team names will return an appropriate error message
